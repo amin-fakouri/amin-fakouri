@@ -12,6 +12,6 @@
 
 <h3>📫 Reach Me</h3>
 <p>
-  <a href="www.linkedin.com/in/mohammad-amin-fakouri-17466a343">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/mohammad-amin-fakouri-17466a343">LinkedIn</a> &nbsp;|&nbsp;
   <a href="mailto:aminfakouri15@gmail.com">Email</a>
 </p>
